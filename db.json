@@ -1,0 +1,71 @@
+{
+  "train": [
+    {
+      "to": "Vishakapatnam",
+      "from": "Secundrabad",
+      "date": "07-03-2023",
+      "class": "Sleeper",
+      "id": 1
+    },
+    {
+      "to": "Vishakapatnam",
+      "from": "Lingampally",
+      "date": "07-03-2023",
+      "class": "Sleeper",
+      "id": 2
+    },
+    {
+      "to": "Vijaywada",
+      "from": "Lingampally",
+      "date": "07-03-2023",
+      "class": "Sleeper",
+      "id": 3
+    },
+    {
+      "to": "Vijaywada",
+      "from": "Secundrabad",
+      "date": "07-03-2023",
+      "class": "Sleeper",
+      "id": 4
+    },
+    {
+      "to": "Guntur",
+      "from": "Secundrabad",
+      "date": "07-03-2023",
+      "class": "Sleeper",
+      "id": 5
+    },
+    {
+      "to": "Tirupati",
+      "from": "Lingampally",
+      "date": "07-03-2023",
+      "class": "Sleeper",
+      "id": 6
+    },
+    {
+      "to": "Guntur",
+      "from": "Lingampally",
+      "date": "07-03-2023",
+      "class": "Sleeper",
+      "id": 7
+    },
+    {
+      "to": "Tirupati",
+      "from": "Lingampally",
+      "date": "07-03-2023",
+      "class": "Sleeper",
+      "id": 8
+    },
+    {
+      "to": "Tirupati",
+      "from": "Lingampally",
+      "date": "07-03-2023",
+      "class": "Sleeper",
+      "id": 9
+    }
+  ],
+  "to-st":["Vishakapatnam","Vijaywada","Guntur","Tirupati","Amaravati","Hyderabad","Nampally","Bhimavaram","Calcutta"],
+  "from-st":["Lingampally","Secundrabad","Warangal","Odisa","Coimbatore","Banglore","Malabar","Bhimavaram","Calicut"],
+  "classes":["Sleeper","First-AC","Second-AC","Thrid-AC"]
+  
+}
